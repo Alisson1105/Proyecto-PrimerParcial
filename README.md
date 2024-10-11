@@ -1,2 +1,2 @@
-# Taller_Programacion
-curso-semestral-"Sistema_pedidos"
+# Proyecto Primer Parcial
+Taller de programacion. Curso semestral
